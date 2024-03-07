@@ -2,8 +2,6 @@
 This Project is a  real world data science tasks completed using the Python Pandas library.
 Setup
 
-To access all of the files I recommend you fork this repo and then clone it locally. Instructions on how to do this can be found here: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
-
 # Installation
 
 Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html
